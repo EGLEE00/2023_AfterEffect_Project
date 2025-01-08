@@ -23,7 +23,7 @@ Adobe AfterEffect를 활용하여 다양한 영상 프로젝트를 구현, 모�
 
 ---
 
-## Real-Time Motion Course (Fall 2023, Junior Year)
+## Real-Time Motion Course, Fall 2023 (Junior Year)
 
 ### Project Overview  
 A course focused on creating various video projects using Adobe After Effects,  
